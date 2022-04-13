@@ -28,6 +28,6 @@ Gustavo Davila
 JavaScript, HTML, CSS, Node
          
 ## Video
+https://drive.google.com/file/d/1ueudjZ0QqriP50Y4P9O87fHfje0gCqwf/view
 
-
-![screenshot]()  
+![screenshot](./screenshot.png)  
